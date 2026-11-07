@@ -1,0 +1,4 @@
+I have my government class at 9:35 AM on Mondays and Wednesdays.
+I have my econ class at 11 AM on Mondays and Wednesdays.
+I have my CS class at 1:15 PM on Mondays and Wednesdays.
+I have my history class at 11 AM on Tuesdays and Thursdays.
